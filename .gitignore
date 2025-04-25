@@ -11,8 +11,41 @@ user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 
-#codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
+# CodeIgniter 4 specific
+/writable/*
+!/writable/index.html
+!/writable/.htaccess
+
+.env
+.env.*
+
+# Composer dependencies
 /vendor/
+
+# Node modules (if using frontend tooling)
+/node_modules/
+
+# IDE/Editor files
+/.idea/
+/.vscode/
+/*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.cache
+
+# PHPUnit
+/phpunit.xml
+/build/
+
+# Coverage reports
+coverage/
+
+# Other build artifacts
+*.bak
+*.tmp
