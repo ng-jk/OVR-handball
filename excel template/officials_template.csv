@@ -1,0 +1,12 @@
+officialID,name,dateOfBirth,teamID,function
+"*keep this column only if you want to edit an existing team, otherwise, leave blank","*don use special character, don't leave blank","*use excel short date format,y-m-d, calendar type gregorian, can leave blank","*get it by download the team file from the same page lower part, plain number only, do not leave blank","*do not use special character, can leave blank"
+,Test1,12/12/2012,1,Coach
+,Test2,13/12/2012,2,Coach
+,Test3,14/12/2012,3,Coach
+,Test4,15/12/2012,4,Coach
+,Test5,16/12/2012,5,Coach
+,Test6,17/12/2012,6,Coach
+,Test7,18/12/2012,7,Coach
+,Test8,19/12/2012,8,Coach
+,Test9,20/12/2012,9,Coach
+,Test10,21/12/2012,10,Coach

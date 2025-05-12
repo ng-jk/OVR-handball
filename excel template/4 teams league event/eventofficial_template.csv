@@ -1,0 +1,4 @@
+eventOfficialID,name,function,dateOfBirth
+"*keep this column only if you want to edit an existing record, otherwise, leave blank","*do not use special character, don't leave blank","*do not use special character, can leave blank","*use excel short date format,y-m-d, can leave blank"
+,test1,refree,2012-12-12
+,test2,refree,2012-12-13

@@ -1,0 +1,12 @@
+teamID,name,teamInfo,dateFounded,country,state,gender
+"*keep this column only if you want to edit an existing team, otherwise, leave blank","*do not use special character, don't leave blank","*do not use special character, can leave blank","*use excel short date format,y-m-d, can leave blank","*do not use special character, can leave blank","*keep the column only if country is Malaysia, otherwise leave blank, use correct case for the state","*do not use special character, can leave blank, only accept Male, Female or Not restricted"
+,team1,test,10/12/2012,UK,N9,Male
+,team2,test,11/12/2012,Malaysia,Johor,Male
+,team3,test,12/12/2012,Malaysia,Johor,Male
+,team4,test,13/12/2012,Malaysia,Johor,Male
+,team5,test,14/12/2012,Malaysia,Johor,Male
+,team6,test,15/12/2012,Malaysia,Johor,Male
+,team7,test,16/12/2012,Malaysia,Johor,Male
+,team8,test,17/12/2012,Malaysia,Johor,Male
+,team9,test,18/12/2012,Malaysia,Johor,Male
+,team10,test,19/12/2012,Malaysia,Johor,Male

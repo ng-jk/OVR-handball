@@ -1,0 +1,8 @@
+﻿matchTeamID,eventTeamID,matchID,halftime,endOfPlaying,overtime1,overtime2,afterPenaltyThrow,teamTimeout1,teamTimeout2,teamTimeout3,pointInMatch
+"*keep this column only if you want to edit an existing team, otherwise, leave blank","*get it from event-team download, do not leave blank, it is the ID of the team who join the match","*get it from match download, do not leave blank, it is the ID of the match","*the point after halftime, integer only, can leave blank","*the point when the regular time end, integer only, can leave blank","*the point ofter overtime1,  integer only, can leave blank","*the point after overtime 2, integer only, can leave blank","*the point after penalty throw,  integer only, can leave blank","*first team timout, use excel TIME(H,M,S), can leave blank","*second team timeout,  use excel TIME(H,M,S), can leave blank","*third team timout,  use excel TIME(H,M,S), can leave blank","*the point the team get in a match, can leave blank integer only"
+1,1,1,32,,,,,,,,
+2,2,1,12,,,,,,,,
+3,3,2,42,,,,,,,,
+4,4,2,13,,,,,,,,
+5,,3,,,,,,,,,
+6,,3,,,,,,,,,

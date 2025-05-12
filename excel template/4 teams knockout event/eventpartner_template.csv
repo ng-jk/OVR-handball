@@ -1,0 +1,4 @@
+﻿eventPartnerID,name,type,hyperlink
+"*keep this column only if you want to edit an existing record, otherwise, leave blank","*do not use special character, do not leave blank","*do not use special character, can leave blank, like ","*do not leave blank, mask like ""innotex.com.my"""
+,test1,technical support,innotex.com.my
+,test2,sponsership,innotex.com.my

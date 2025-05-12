@@ -1,0 +1,4 @@
+﻿matchOfficialID,matchID,eventOfficialID,remark
+"*keep this column only if you want to edit an existing record, otherwise, leave blank","*get it from match download, do not leave blank","*get it from event official download, do not leave blank","*do not use special character, can leave blank"
+,1,1,test1
+,1,2,test1

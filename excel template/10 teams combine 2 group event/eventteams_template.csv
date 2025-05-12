@@ -1,0 +1,12 @@
+eventTeamID,teamID,group
+"*keep this column only if you want to edit an existing record, otherwise, leave blank","*get it from team download, do not leave blank, it is the ID of the team who join the event","*the group of the team, something like a team from group A will agianst another team from group A only"
+,1,A
+,2,A
+,3,A
+,4,A
+,5,A
+,6,B
+,7,B
+,8,B
+,9,B
+,10,B
